@@ -24,6 +24,7 @@ h1 {
     font-size: 17px;
 }
 
+
 .fast-section {
     background-image: url("images/dona.jpg");
     background-repeat: no-repeat;
@@ -49,4 +50,20 @@ h1 {
     padding-top: 15px;
     padding-bottom: 15px;
     letter-spacing: 0.5px;
+}
+
+.second-section {
+    text-align: center;
+}
+
+.second-section h1 {
+    font-weight: 600;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+
 }
