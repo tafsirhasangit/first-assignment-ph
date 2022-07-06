@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: antiquewhite;
+    border-radius: 3px;
+    margin-top: 25px;
+    text-transform: capitalize;
+    font-size: 17px;
+}
+
+.fast-section {
+    background-image: url("images/dona.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px 0;
+    position: relative;
+    text-align: center;
+    padding: 100px;
+    position: relative;
+    z-index: 99999999999;
+}
+
+.fast-section h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+    text-transform: uppercase;
+}
+
+.fast-section p {
+    color: white;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    letter-spacing: 0.5px;
+}
