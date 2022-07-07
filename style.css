@@ -101,5 +101,25 @@ h1 {
     flex-direction: row;
     justify-content: center;
     justify-content: space-around;
+    padding: 100 px;
+}
+
+.shadow {
+    box-shadow: 10px 10px 10px blueviolet;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
     padding: 10px;
-    background-color: wheat;
+}
+
+.color-one {
+    background-color: rgb(235, 207, 172);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    background-color: #010c16;
+    color: #fff;
+}
