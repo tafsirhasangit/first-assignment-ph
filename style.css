@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Mono', monospace;
     font-family: 'Roboto Slab', serif;
-    background-color: rgb(214, 212, 208);
+    background-color: rgb(181, 195, 156);
 }
 
 h1 {
@@ -91,9 +91,9 @@ h1 {
 
 .donate-today {
     text-align: center;
-    background-color: aqua;
-    padding: 20px;
+    background-color: rgb(204, 225, 225);
     font-weight: 500;
+    padding-bottom: 15px;
 }
 
 .third-section {
@@ -105,7 +105,7 @@ h1 {
 }
 
 .shadow {
-    box-shadow: 10px 10px 10px blueviolet;
+    box-shadow: 10px 10px 10px rgb(158, 149, 166);
     margin-left: 4%;
     margin-right: 4%;
     margin-bottom: 4%;
@@ -116,9 +116,6 @@ h1 {
     background-color: rgb(235, 207, 172);
 }
 
-.bc-one {
-    background-color: aqua;
-}
 
 footer {
     display: flex;
@@ -126,4 +123,16 @@ footer {
     padding: 15px;
     background-color: #010c16;
     color: #fff;
+}
+
+.blue {
+    background-color: rgb(255, 214, 127);
+}
+
+.green {
+    background-color: rgb(158, 204, 66);
+}
+
+.red {
+    background-color: rgb(219, 145, 145);
 }
