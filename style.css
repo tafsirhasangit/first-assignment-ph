@@ -116,6 +116,10 @@ h1 {
     background-color: rgb(235, 207, 172);
 }
 
+.bc-one {
+    background-color: aqua;
+}
+
 footer {
     display: flex;
     justify-content: center;
