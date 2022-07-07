@@ -76,6 +76,12 @@ h1 {
 .second-section {
     text-align: center;
     border: 5px;
+
+
+}
+
+.second-two {
+    background-color: yellow;
 }
 
 .second-section h1 {
@@ -95,3 +101,5 @@ h1 {
     flex-direction: row;
     justify-content: center;
     justify-content: space-around;
+    padding: 10px;
+    background-color: wheat;
