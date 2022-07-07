@@ -91,7 +91,7 @@ h1 {
 
 .donate-today {
     text-align: center;
-    background-color: rgb(204, 225, 225);
+    background-color: rgb(181, 219, 234);
     font-weight: 500;
     padding-bottom: 15px;
 }
@@ -116,21 +116,26 @@ h1 {
     background-color: rgb(235, 207, 172);
 }
 
-
 footer {
     display: flex;
     justify-content: center;
-    padding: 15px;
+    padding: 18px;
     background-color: #010c16;
     color: #fff;
 }
 
+.footer-color {
+    font-size: xx-large;
+    color: rgb(52, 96, 229);
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .blue {
-    background-color: rgb(255, 214, 127);
+    background-color: rgb(230, 205, 150);
 }
 
 .green {
-    background-color: rgb(158, 204, 66);
+    background-color: rgb(200, 237, 124);
 }
 
 .red {
